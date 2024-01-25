@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @SatyaA26
-- 💻 MSc Data Science and Analytics Graduate
 - 📫 satyawati003@gmail.com
+- 💻 MSc Data Science and Analytics Graduate
+- Royal Holloway University of London(2022-23)
+
 
 <!---
 SatyaA26/SatyaA26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
